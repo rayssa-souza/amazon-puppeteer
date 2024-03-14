@@ -1,0 +1,25 @@
+{
+  "name": "amazon-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayssa-souza/amazon-puppeteer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rayssa-souza/amazon-puppeteer/issues"
+  },
+  "homepage": "https://github.com/rayssa-souza/amazon-puppeteer#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0",
+    "puppeteer": "^22.4.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
